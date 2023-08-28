@@ -1,4 +1,6 @@
 #!/bin/bash
 echo "jatin is awsome"
-echo "ssuper1"
+NAME=jatin
+echo "$ is super"
+ 
 
